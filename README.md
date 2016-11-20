@@ -23,4 +23,6 @@ Ubuntu 14.04
 
 Root Access
 
+Python 3.5
+
 The Sleuth Kit (TSK) - http://www.sleuthkit.org/
